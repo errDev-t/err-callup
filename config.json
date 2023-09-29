@@ -1,0 +1,8 @@
+{
+    "TOKEN": "your bot token",
+    "logRoomId": "your log room id",
+    "callupRoleId": "your callup role id",
+    "whitelistRoleId": "your whitelist role id",
+    "callupRoleName": "your callup role name",
+    "whitelistRoleName": "your whitelist role name"
+}
