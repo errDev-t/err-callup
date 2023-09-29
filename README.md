@@ -9,15 +9,8 @@
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+- [Contact](https://discord.gg/BdhTum6cPp)
 
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
-
-
-## :star2: About the Project
-
-## :toolbox: Getting Started
 
 ### :gear: Installation
 
