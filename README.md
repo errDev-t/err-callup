@@ -22,6 +22,6 @@ First you should have node.js, Open the terminal to the bot files path and run t
 
 ## :handshake: Contact
 
-errDev - [@twitter_handle](https://discord.gg/BdhTum6cPp) -
+errDev - [Discord](https://discord.gg/BdhTum6cPp) -
 
 Project Link: [https://github.com/errDev-t/err-callup](https://github.com/errDev-t/err-callup)
